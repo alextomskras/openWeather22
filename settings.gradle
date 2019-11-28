@@ -1,0 +1,2 @@
+rootProject.name='openWeather22'
+include ':app'
